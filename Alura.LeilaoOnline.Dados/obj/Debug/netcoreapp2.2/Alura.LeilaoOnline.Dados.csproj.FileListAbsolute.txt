@@ -1,0 +1,61 @@
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.deps.json
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.runtimeconfig.json
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.runtimeconfig.dev.json
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.dll
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.pdb
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.dll
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.pdb
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.csprojAssemblyReference.cache
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.csproj.CoreCompileInputs.cache
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.AssemblyInfoInputs.cache
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.AssemblyInfo.cs
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.csproj.CopyComplete
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.dll
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.pdb
+C:\Users\dpcos\source\alura\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.deps.json
+C:\Users\dpcos\source\alura\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.runtimeconfig.json
+C:\Users\dpcos\source\alura\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.runtimeconfig.dev.json
+C:\Users\dpcos\source\alura\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.dll
+C:\Users\dpcos\source\alura\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.pdb
+C:\Users\dpcos\source\alura\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.dll
+C:\Users\dpcos\source\alura\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.pdb
+C:\Users\dpcos\source\alura\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.csprojAssemblyReference.cache
+C:\Users\dpcos\source\alura\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.csproj.CoreCompileInputs.cache
+C:\Users\dpcos\source\alura\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.AssemblyInfoInputs.cache
+C:\Users\dpcos\source\alura\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.AssemblyInfo.cs
+C:\Users\dpcos\source\alura\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.csproj.CopyComplete
+C:\Users\dpcos\source\alura\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.dll
+C:\Users\dpcos\source\alura\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.pdb
+C:\Users\dpcos\Videos\1261-selenium-csharp-parte2\assets\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.deps.json
+C:\Users\dpcos\Videos\1261-selenium-csharp-parte2\assets\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.runtimeconfig.json
+C:\Users\dpcos\Videos\1261-selenium-csharp-parte2\assets\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.runtimeconfig.dev.json
+C:\Users\dpcos\Videos\1261-selenium-csharp-parte2\assets\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.dll
+C:\Users\dpcos\Videos\1261-selenium-csharp-parte2\assets\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.pdb
+C:\Users\dpcos\Videos\1261-selenium-csharp-parte2\assets\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.dll
+C:\Users\dpcos\Videos\1261-selenium-csharp-parte2\assets\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.pdb
+C:\Users\dpcos\Videos\1261-selenium-csharp-parte2\assets\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.csprojAssemblyReference.cache
+C:\Users\dpcos\Videos\1261-selenium-csharp-parte2\assets\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.csproj.CoreCompileInputs.cache
+C:\Users\dpcos\Videos\1261-selenium-csharp-parte2\assets\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.AssemblyInfoInputs.cache
+C:\Users\dpcos\Videos\1261-selenium-csharp-parte2\assets\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.AssemblyInfo.cs
+C:\Users\dpcos\Videos\1261-selenium-csharp-parte2\assets\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.csproj.CopyComplete
+C:\Users\dpcos\Videos\1261-selenium-csharp-parte2\assets\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.dll
+C:\Users\dpcos\Videos\1261-selenium-csharp-parte2\assets\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.pdb
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\selenium-manager\linux\selenium-manager
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\selenium-manager\macos\selenium-manager
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\selenium-manager\windows\selenium-manager.exe
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.deps.json
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.runtimeconfig.json
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.runtimeconfig.dev.json
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.dll
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.pdb
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.dll
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.pdb
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.csproj.AssemblyReference.cache
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.AssemblyInfoInputs.cache
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.AssemblyInfo.cs
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.csproj.CoreCompileInputs.cache
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.csproj.CopyComplete
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.dll
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.pdb
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Dados.genruntimeconfig.cache

@@ -1,0 +1,39 @@
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.deps.json
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.runtimeconfig.json
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.runtimeconfig.dev.json
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.dll
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.pdb
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.dll
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.pdb
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.csprojAssemblyReference.cache
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.csproj.CoreCompileInputs.cache
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.AssemblyInfoInputs.cache
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.AssemblyInfo.cs
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.csproj.CopyComplete
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.dll
+C:\Users\copacabana_alura\Documents\Visual Studio 2017\Projects\Selenium.Tests\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.pdb
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\selenium-manager\linux\selenium-manager
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\selenium-manager\macos\selenium-manager
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\selenium-manager\windows\selenium-manager.exe
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.deps.json
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.runtimeconfig.json
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.runtimeconfig.dev.json
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.dll
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.pdb
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.dll
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.pdb
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.csproj.AssemblyReference.cache
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.AssemblyInfoInputs.cache
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.AssemblyInfo.cs
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.csproj.CopyComplete
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.dll
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.pdb
+C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.Tests.genruntimeconfig.cache
