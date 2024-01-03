@@ -5551,23 +5551,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Starline\\.nuget\\packages\\": {},
+    "C:\\Users\\kleis\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Starline\\Documents\\Cursos Alura\\Selenium WebDriver e C# parte 2 outros recursos\\Aula4.ProjetoAtualizado\\Selenium.Tests\\Alura.LeilaoOnline.Selenium\\Alura.LeilaoOnline.Selenium.csproj",
+      "projectUniqueName": "C:\\Curso\\Cursos Alura\\Selenium WebDriver e C# parte 2 outros recursos\\Aula4.ProjetoAtualizado\\Selenium.Tests\\Alura.LeilaoOnline.Selenium\\Alura.LeilaoOnline.Selenium.csproj",
       "projectName": "Alura.LeilaoOnline.Selenium",
-      "projectPath": "C:\\Users\\Starline\\Documents\\Cursos Alura\\Selenium WebDriver e C# parte 2 outros recursos\\Aula4.ProjetoAtualizado\\Selenium.Tests\\Alura.LeilaoOnline.Selenium\\Alura.LeilaoOnline.Selenium.csproj",
-      "packagesPath": "C:\\Users\\Starline\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Starline\\Documents\\Cursos Alura\\Selenium WebDriver e C# parte 2 outros recursos\\Aula4.ProjetoAtualizado\\Selenium.Tests\\Alura.LeilaoOnline.Selenium\\obj\\",
+      "projectPath": "C:\\Curso\\Cursos Alura\\Selenium WebDriver e C# parte 2 outros recursos\\Aula4.ProjetoAtualizado\\Selenium.Tests\\Alura.LeilaoOnline.Selenium\\Alura.LeilaoOnline.Selenium.csproj",
+      "packagesPath": "C:\\Users\\kleis\\.nuget\\packages\\",
+      "outputPath": "C:\\Curso\\Cursos Alura\\Selenium WebDriver e C# parte 2 outros recursos\\Aula4.ProjetoAtualizado\\Selenium.Tests\\Alura.LeilaoOnline.Selenium\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Starline\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kleis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5636,7 +5636,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

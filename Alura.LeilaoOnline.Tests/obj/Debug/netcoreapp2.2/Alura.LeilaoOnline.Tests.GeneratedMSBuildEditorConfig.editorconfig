@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = Alura.LeilaoOnline.Tests
-build_property.ProjectDir = C:\Users\Starline\Documents\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\
+build_property.ProjectDir = C:\Curso\Cursos Alura\Selenium WebDriver e C# parte 2 outros recursos\Aula4.ProjetoAtualizado\Selenium.Tests\Alura.LeilaoOnline.Tests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
